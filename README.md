@@ -10,7 +10,7 @@ Relational Database Management System
 
 Research paper - Smart Vehicle Monitoring System Using Open CV
 
-Prof. Vaibhav vasani, Prof. Pradnya Bhangale
+Asst Prof. Vaibhav vasani, Asst Prof. Pradnya Bhangale
 
 K.J. Somaiya College of Engineering
 
