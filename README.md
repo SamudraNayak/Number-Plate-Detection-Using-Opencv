@@ -10,7 +10,7 @@ The first step is to detect the number plate from the vehicle. The image of the 
 
 Clone the repository:
 
-
+https://github.com/SamudraNayak/Number-Plate-Detection-Using-Opencv.git
 
 Run the command:
 
