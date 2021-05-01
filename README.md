@@ -1,4 +1,4 @@
-# Number-Plate-Detection-Using-Opencv
+# Smart-Vehicle-Monitoring-System-Using-OpenCV
 
 The objective of this project is to automatically detect Number Plates of Vehicles from images of cars using OpenCV for security purposes. The system tracks the vehicle number plate and separates the number plate from the vehicle. 
 
@@ -28,8 +28,6 @@ BATCH: B3
 
 COURSE: Relational Database Management System
 
-Research paper - Smart Vehicle Monitoring System Using Open CV
-
 FACULTY: Asst Prof. Vaibhav vasani, Asst Prof. Pradnya Bhangale
 
-K.J. Somaiya College of Engineering
+COLLEGE: K.J. Somaiya College of Engineering, Vidyavihar
