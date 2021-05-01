@@ -1,16 +1,25 @@
 # Number-Plate-Detection-Using-Opencv
 
-Samudra Nayak
+Automatic Number Plate Detection from images of cars using openCV
 
-1911115
+# Instructions
 
-SY COMPS B3
+1. 
 
-Relational Database Management System
+# Details
+
+NAME: Samudra Nayak
+
+ROLL NO.: 1911115
+
+CLASS: Second Year Computer Engineering 
+
+BATCH: B3
+
+COURSE: Relational Database Management System
 
 Research paper - Smart Vehicle Monitoring System Using Open CV
 
-Asst Prof. Vaibhav vasani, Asst Prof. Pradnya Bhangale
+FACULTY: Asst Prof. Vaibhav vasani, Asst Prof. Pradnya Bhangale
 
 K.J. Somaiya College of Engineering
-
