@@ -30,6 +30,6 @@ BATCH: B3
 
 COURSE: Relational Database Management System
 
-FACULTY: Asst Prof. Vaibhav vasani, Asst Prof. Pradnya Bhangale
+FACULTY: Asst Prof. Vaibhav Vasani, Asst Prof. Pradnya Bhangale
 
 COLLEGE: K.J. Somaiya College of Engineering, Vidyavihar
