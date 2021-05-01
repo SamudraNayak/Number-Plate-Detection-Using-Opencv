@@ -5,6 +5,7 @@ The objective of this project is to automatically detect Number Plates of Vehicl
 Procedure
 
 The first step is to detect the number plate from the vehicle. The image of the vehicle is captured using a camera and fed to the processing system. The Haar Cascade Classifier in OpenCV is used to detect rectangular objects. Once the Number Plate is detected, it is segmented and cropped out of the image and then saved as a new image.
+
 Research Paper - Smart Vehicle Monitoring System using OpenCV
 
 # Instructions
